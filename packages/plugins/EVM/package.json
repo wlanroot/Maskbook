@@ -39,7 +39,7 @@
     "web3-core": "1.8.0",
     "web3-core-helpers": "1.8.0",
     "web3-eth-abi": "1.8.0",
-    "web3-utils": "1.8.0"
+    "web3-utils": "4.2.1"
   },
   "devDependencies": {
     "@types/use-subscription": "^1.0.0"
