@@ -146,7 +146,7 @@
     "web3-core-helpers": "1.8.0",
     "web3-eth-abi": "1.8.0",
     "web3-eth-contract": "1.8.0",
-    "web3-utils": "1.8.0",
+    "web3-utils": "4.2.1",
     "webextension-polyfill": "^0.10.0",
     "z-schema": "^5.0.3",
     "zod": "3.16.0"
